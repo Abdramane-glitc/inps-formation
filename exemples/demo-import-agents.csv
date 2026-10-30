@@ -1,0 +1,24 @@
+﻿matricule;nom;prenom;direction_code;service_code;fonction;statut_professionnel;email_pro;telephone_pro
+IMP0001;IMPORT;Aminata (fictif);DEMO-DP;DEMO-SAF;Agent administratif;titulaire;imp0001@exemple.invalid;
+IMP0002;IMPORT;Bakary (fictif);DEMO-DF;DEMO-SCO;Agent administratif;titulaire;imp0002@exemple.invalid;
+IMP0003;IMPORT;Kadiatou (fictif);DEMO-DRH;DEMO-SGP;Agent administratif;titulaire;imp0003@exemple.invalid;
+IMP0004;IMPORT;Seydou (fictif);DEMO-DP;DEMO-SPR;Agent administratif;titulaire;imp0004@exemple.invalid;
+IMP0005;FICTIF;Aminata (fictif);DEMO-DP;DEMO-SAF;Agent administratif;titulaire;imp0005@exemple.invalid;
+IMP0006;FICTIF;Bakary (fictif);DEMO-DF;DEMO-SCO;Agent administratif;titulaire;imp0006@exemple.invalid;
+IMP0007;FICTIF;Kadiatou (fictif);DEMO-DRH;DEMO-SGP;Agent administratif;titulaire;imp0007@exemple.invalid;
+IMP0008;FICTIF;Seydou (fictif);DEMO-DP;DEMO-SPR;Agent administratif;titulaire;imp0008@exemple.invalid;
+IMP0009;ESSAI;Aminata (fictif);DEMO-DP;DEMO-SAF;Agent administratif;titulaire;imp0009@exemple.invalid;
+IMP0010;ESSAI;Bakary (fictif);DEMO-DF;DEMO-SCO;Agent administratif;titulaire;imp0010@exemple.invalid;
+IMP0011;ESSAI;Kadiatou (fictif);DEMO-DRH;DEMO-SGP;Agent administratif;titulaire;imp0011@exemple.invalid;
+IMP0012;ESSAI;Seydou (fictif);DEMO-DP;DEMO-SPR;Agent administratif;titulaire;imp0012@exemple.invalid;
+IMP0013;EXEMPLE;Aminata (fictif);DEMO-DP;DEMO-SAF;Agent administratif;titulaire;imp0013@exemple.invalid;
+IMP0014;EXEMPLE;Bakary (fictif);DEMO-DF;DEMO-SCO;Agent administratif;titulaire;imp0014@exemple.invalid;
+IMP0015;EXEMPLE;Kadiatou (fictif);DEMO-DRH;DEMO-SGP;Agent administratif;titulaire;imp0015@exemple.invalid;
+IMP0016;EXEMPLE;Seydou (fictif);DEMO-DP;DEMO-SPR;Agent administratif;titulaire;imp0016@exemple.invalid;
+IMP0017;MODELE;Aminata (fictif);DEMO-DP;DEMO-SAF;Agent administratif;titulaire;imp0017@exemple.invalid;
+IMP0018;MODELE;Bakary (fictif);DEMO-DF;DEMO-SCO;Agent administratif;titulaire;imp0018@exemple.invalid;
+IMP0019;MODELE;Kadiatou (fictif);DEMO-DRH;DEMO-SGP;Agent administratif;titulaire;imp0019@exemple.invalid;
+IMP0020;MODELE;Seydou (fictif);DEMO-DP;DEMO-SPR;Agent administratif;titulaire;imp0020@exemple.invalid;
+IMP0001;DOUBLON;Ligne en double;;;;;;
+IMP9999;;Nom manquant;;;;;;
+IMP9998;REFERENCE;Inconnue;;SERVICE-INCONNU;;;;

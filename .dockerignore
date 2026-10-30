@@ -1,0 +1,13 @@
+.env
+.git
+node_modules
+vendor
+public/build
+storage/logs/*
+storage/app/private/*
+storage/app/sauvegardes
+storage/framework/cache/*
+storage/framework/sessions/*
+storage/framework/views/*
+tests
+composer.json.build*

@@ -1,0 +1,4 @@
+# crontab -u www-data -e   (une seule ligne nécessaire : le planificateur Laravel gère le reste)
+* * * * * cd /var/www/inps-formation && php artisan schedule:run >> /dev/null 2>&1
+# Copie hors serveur des sauvegardes (exemple, à adapter à l'infrastructure de l'INPS)
+# 30 3 * * * rsync -a /var/backups/inps-formation/ sauvegarde@serveur-distant:/sauvegardes/inps-formation/

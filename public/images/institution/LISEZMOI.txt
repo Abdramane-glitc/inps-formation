@@ -1,0 +1,12 @@
+Ressources institutionnelles de l'INPS
+
+Fichiers présents (fournis par l'INPS le 20/10/2026) :
+  logo.png   -> logo de l'INPS (marges blanches recadrées, logo non modifié)
+  siege.jpg  -> photographie du siège (page de connexion), 602 x 509 px
+
+Pour les remplacer, déposer ici, avec exactement ces noms :
+  logo.svg (prioritaire sur logo.png) ou logo.png
+  siege.jpg (ou siege.webp / siege.png), paysage, 1600 px de large conseillé
+
+Alternative : Administration > Paramètres > Identité institutionnelle (le fichier déposé dans l'application est prioritaire).
+N'utiliser que des fichiers officiels dont l'INPS détient les droits.
